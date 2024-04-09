@@ -1,9 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T10:47:28.345Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.2.3" etag="cjxB6Mv-1TXGrRHXdrCj" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T11:15:54.805Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="TaS1o8jMlcFzlibfbchL" version="24.2.3" type="github">
   <diagram name="Page-1" id="o6AY9ianDne0PFP-ghpO">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="555" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-18" target="jTDM-Km7q8JAfBqqnROm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-38" value="&lt;div&gt;Program startes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDM-Km7q8JAfBqqnROm-20">
+          <mxGeometry x="-0.375" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-18" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-19" target="jTDM-Km7q8JAfBqqnROm-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-19" value="Vis dashboard" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="515" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-39" target="jTDM-Km7q8JAfBqqnROm-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <mxPoint x="480" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-27" target="jTDM-Km7q8JAfBqqnROm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-27" value="Spiller fjerner en figur" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-33" target="jTDM-Km7q8JAfBqqnROm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-33" target="jTDM-Km7q8JAfBqqnROm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-33" value="Vis de to valgte figurer og en besked om at en kamp nu kan startes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="610" width="177" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-39" value="Spiller trykker &quot;start spil&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-40" target="jTDM-Km7q8JAfBqqnROm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-43" value="Nej" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDM-Km7q8JAfBqqnROm-42">
+          <mxGeometry x="-0.1497" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-40" target="jTDM-Km7q8JAfBqqnROm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-48" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDM-Km7q8JAfBqqnROm-47">
+          <mxGeometry x="-0.1852" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-40" value="Er der to heltefigurer på heltefigurbrættet?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="227" y="395" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-41" target="jTDM-Km7q8JAfBqqnROm-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-41" value="Vis &quot;vælg heroes&quot; på dashboard" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="400" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-44" target="jTDM-Km7q8JAfBqqnROm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-44" value="Vent på at heltefigurbrættet sender et signal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="230" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-50" target="jTDM-Km7q8JAfBqqnROm-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-50" value="Spiller starter en kamp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTDM-Km7q8JAfBqqnROm-54" target="jTDM-Km7q8JAfBqqnROm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTDM-Km7q8JAfBqqnROm-54" value="Vis information om kampen på dashboardet" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
